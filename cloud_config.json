@@ -1,0 +1,6 @@
+{
+  "api_version": 1,
+  "broadcast_server_url": "https://uninvitedly-surfaceless-lupe.ngrok-free.dev",
+  "maintenance_mode": false,
+  "minimum_client_version": "1.0.0"
+}
